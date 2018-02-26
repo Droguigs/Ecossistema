@@ -25,7 +25,7 @@ public class Engine implements ActionListener {
     private Pasture pasture;
 
 
-    Engine (Pasture pasture) {
+    public Engine (Pasture pasture) {
         this.pasture = pasture;
         this.speed = speed;
     }
