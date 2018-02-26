@@ -1,5 +1,6 @@
 package Tools;
 
+import Main.Pasture;
 import javax.swing.*;
 import java.util.*;
 import java.awt.*;

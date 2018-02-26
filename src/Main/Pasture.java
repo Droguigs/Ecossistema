@@ -1,7 +1,9 @@
-package Tools;
+package Main;
 import Main.Engine;
 
 import GUI.PastureGUI;
+import Tools.Dummy;
+import Tools.Entity;
 import java.util.*;
 import java.awt.Point;
 
