@@ -84,7 +84,7 @@ public class PastureGUI extends JFrame implements ActionListener {
     
 
     /**
-     * This method is called when an action event has occured and
+     * This method is called when an action event has occurred and
      * carries out the correct actions depending on the event. In this
      * class, this means that someone has pressed any of the buttons
      * start, stop, or exit.
