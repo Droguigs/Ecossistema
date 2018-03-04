@@ -1,5 +1,6 @@
 package Main;
 
+import Tools.Pasture;
 import Tools.Entity;
 import java.util.*;
 import javax.swing.Timer;

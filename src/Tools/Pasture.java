@@ -1,7 +1,8 @@
-package Main;
+package Tools;
 import Main.Engine;
 
 import GUI.PastureGUI;
+import Main.Engine;
 import Tools.Dummy;
 import Tools.Entity;
 import Tools.Fence;
@@ -220,13 +221,6 @@ public class Pasture {
 
     public Point getEntityPosition(Entity entity) {
         return point.get(entity);
-    }
-
-
-    /** The method for the JVM to run. */
-    public static void main(String[] args) {
-
-        new Pasture();
     }
 
 

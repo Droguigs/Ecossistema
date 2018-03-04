@@ -5,7 +5,6 @@
  */
 package Tools;
 
-import Main.Pasture;
 import java.util.Collection;
 import java.util.Iterator;
 import javax.swing.ImageIcon;

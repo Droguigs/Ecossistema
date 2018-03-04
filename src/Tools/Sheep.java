@@ -5,7 +5,6 @@
  */
 package Tools;
 
-import Main.Pasture;
 import javax.swing.ImageIcon;
 
 /**
