@@ -77,7 +77,8 @@ public class PastureGUI extends JFrame implements ActionListener {
         exitButton.setEnabled(true);
         
         update();
-
+        
+        setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setVisible(true);
     }

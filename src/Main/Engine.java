@@ -15,7 +15,7 @@ import java.awt.event.*;
  * the entity starve from hunger, or producing a new offspring.
  */
 
-public class Engine implements ActionListener {
+public class Engine implements ActionListener{
     
     private final int  SPEED_REFERENCE = 1000; /* 1000 */
     private static int speed   = 10;
@@ -57,4 +57,8 @@ public class Engine implements ActionListener {
         return time;
     }
 
+        
+    public static void main(String args[]){
+        new Pasture();
+    }
 }
